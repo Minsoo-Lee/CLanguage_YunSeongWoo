@@ -1,2 +1,2 @@
-# C_language
-clanguage Yun-SeongWoo
+# C_language Yun-Seongwoo
+clanguage
